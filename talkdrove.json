@@ -9,19 +9,19 @@
   
 "env": {
       "SESSION_ID": {
-        "description": "KANGO~Hc1zDABJ#-W2p6VtXpnKfzjSbPVnHQfXcQWH2eJpLz943S-eiNoA",
-        "value":"",
+        "description": "KANGO~ORs1yDpJ#k9zKDJXsI9gg6PlvhKxAzsFaGhH5StTtbK0HpoRoxWA",
+        "value":"KANGO~ORs1yDpJ#k9zKDJXsI9gg6PlvhKxAzsFaGhH5StTtbK0HpoRoxWA",
         "required": true
         
         },
     "OWNER_NUMBER": {
-      "description": "2348065300209",
-      "value": "",
+      "description": "2348058496605",
+      "value": "2348058496605",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Codex",
-      "value": "",
+      "value": "Codex",
       "required": true
     },
     "STICKER_PACK_NAME": {
